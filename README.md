@@ -5,15 +5,15 @@ Runaway Cigarette is a casual game using Cocos2d-x.
 - [ChangeLog](#ChangeLog)
 - [Contributing](#contributing)
 
-## ChangeLog
+## Changelog
 ### [Unreleased] - 2016-06-30
 Project finished.
 ### [Unreleased] - 2021-08-13
 Added
 - Upload full project to github.
-### [Unreleased] - 2021-08-16
+### [Unreleased] - 2021-08-17
 Added
 - readme.md
 
-## Contributing
+## Contributors
 Sungha Park
